@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-// Has maps bytes to unit32
+// Hash maps bytes to unit32
 type Hash func(data []byte) uint32
 
 // Map contains all hashed keys
