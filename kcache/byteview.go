@@ -1,4 +1,4 @@
-package K_Cache
+package kcache
 
 // A ByteView holds an immutable view of bytes
 type ByteView struct {

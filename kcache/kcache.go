@@ -1,4 +1,4 @@
-package K_Cache
+package kcache
 
 import (
 	"fmt"

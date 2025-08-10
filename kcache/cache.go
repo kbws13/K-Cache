@@ -1,7 +1,7 @@
-package K_Cache
+package kcache
 
 import (
-	"kcache/lru"
+	"kcache/kcache/lru"
 	"sync"
 )
 
